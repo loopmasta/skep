@@ -17,7 +17,7 @@ Everything you enter in Skep (groups, names, photos, shopping items, tasks, mess
 - In your iCloud account.
 - In the iCloud storage of the other members of a group you belong to, because a group is shared with them.
 
-The developer cannot see this data. Apple processes it according to the Apple Privacy Policy (https://www.apple.com/legal/privacy/).
+The developer cannot see this data. Apple processes it according to the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ## Who can see what
 Only the members of a group can see its content. You become a member by accepting an invitation link. Your display name and optional photo are visible to the other members of your groups. Members can leave a group, and the group's creator can remove members or delete the group. Deleting a group deletes it for everyone.
@@ -40,4 +40,4 @@ You can delete your content inside the app. Deleting the app does not remove dat
 If this policy changes, the new version will be published at the same address with a new date.
 
 ## Contact
-Stefan Beck, loopmasta@gmail.com. You can also open an issue at https://github.com/loopmasta/skep/issues or use the [support page](support).
+Stefan Beck, [loopmasta@gmail.com](mailto:loopmasta@gmail.com). You can also [open an issue](https://github.com/loopmasta/skep/issues) or use the [support page](support).
