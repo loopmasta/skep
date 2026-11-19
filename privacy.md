@@ -40,4 +40,4 @@ You can delete your content inside the app. Deleting the app does not remove dat
 If this policy changes, the new version will be published at the same address with a new date.
 
 ## Contact
-Stefan Beck. Questions about this policy or about your data in Skep: open an issue at https://github.com/loopmasta/skep/issues or use the [support page](support).
+Stefan Beck, loopmasta@gmail.com. You can also open an issue at https://github.com/loopmasta/skep/issues or use the [support page](support).
